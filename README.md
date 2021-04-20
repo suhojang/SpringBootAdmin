@@ -7,7 +7,7 @@
         + [EnableAdminServer 설정](#EnableAdminServer)
         + [Security 설정](#Security)
         + [yml 설정](#yml)
-        + [Spring Boot Admin](#SpringBootAdminView)
+        + [Spring Boot Admin Viewer](#SpringBootAdminView)
     * Reference SITE
         + [Spring Boot Admin Reference Guide](https://codecentric.github.io/spring-boot-admin/current/)
 
