@@ -8,7 +8,7 @@
         + [Security 설정](#Security)
         + [yml 설정](#yml)
         + [Spring Boot Admin Viewer](#SpringBootAdminView)
-        + [Spring Boot Admin Client](https://github.com/suhojang/SpringBootAdminClient)
+        + [Spring Boot Admin Client GitHub](https://github.com/suhojang/SpringBootAdminClient)
     * Reference SITE
         + [Spring Boot Admin Reference Guide](https://codecentric.github.io/spring-boot-admin/current/)
 
