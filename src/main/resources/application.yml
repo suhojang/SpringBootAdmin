@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: admin-server
+  security:
+    user:
+      name: jsh2808
+      password: 1234
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
